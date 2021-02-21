@@ -13,7 +13,7 @@ First of all the bot doesn't enforce many rules it is up to the players to enfor
 * You may want to !bank a money or action card
 * You may want to !play an action card
 * If you want to one of your cards to be moved from one set to another use !move
-* When you are charged money you can !pay @user money_amounts (eg *!play @monopoly_player 2 2 3* will pay that user two $2M's and a $3M value card from your bank if you have them)
+* When you are charged money you can !pay @user money_amounts (eg *!pay @monopoly_player 2 2 3* will pay that user two $2M's and a $3M value card from your bank if you have them)
 * When an action card allows you to take someones card use !take
 * When a action card requires you to give someone a card use !give
 * When you use *Deal Breaker* you will want to use !take_set
