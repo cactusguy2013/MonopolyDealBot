@@ -3,7 +3,7 @@
 If you wanted to try this bot I don't host it on a server anywhere so you would have to create you own bot (Which is real easy) and change the bottom line of MonpolyDealBot.py, and where it says REMOVED replace it with your own bot authentication key. The code also does not automatically add the colour emojis so you have to add those to the discord server yourself.
 
 ## How to play:
-First of all the bot doesn't enforce many rules it is up to the players to enfore them, kind of like the game *Tabletop Simulator*. This section also doesn't describe how to play the original game but how to use the bot commands in order to play the game.
+First of all the bot doesn't enforce many rules it is up to the players to enforce them, kind of like the game *Tabletop Simulator*. This section also doesn't describe how to play the original game but how to use the bot commands in order to play the game.
 
 * Have every player type !join
 * Once everyone had done that someone has to write !start
