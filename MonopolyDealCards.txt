@@ -1,0 +1,653 @@
+Name: Baltic Avenue
+Type: Property
+Value: 1
+Colours: Brown
+Description:
+
+Name: Mediterranean Avenue
+Type: Property
+Value: 1
+Colours: Brown
+Description:
+
+Name: Boardwalk
+Type: Property
+Value: 4
+Colours: Blue
+Description:
+
+Name: Park Place
+Type: Property
+Value: 4
+Colours: Blue
+Description:
+
+Name: North Carolina Avenue
+Type: Property
+Value: 4
+Colours: Green
+Description:
+
+Name: Pacific Avenue
+Type: Property
+Value: 4
+Colours: Green
+Description:
+
+Name: Pennsylvania Avenue
+Type: Property
+Value: 4
+Colours: Green
+Description:
+
+Name: Connecticut Avenue
+Type: Property
+Value: 1
+Colours: Light Blue
+Description:
+
+Name: Oriental Avenue
+Type: Property
+Value: 1
+Colours: Light Blue
+Description:
+
+Name: Vermont Avenue
+Type: Property
+Value: 1
+Colours: Light Blue
+Description:
+
+Name: New York Avenue
+Type: Property
+Value: 2
+Colours: Orange
+Description:
+
+Name: St James Place
+Type: Property
+Value: 2
+Colours: Orange
+Description:
+
+Name: Tennessee Avenue
+Type: Property
+Value: 2
+Colours: Orange
+Description:
+
+Name: St Charles Place
+Type: Property
+Value: 2
+Colours: Orange
+Description:
+
+Name: Virginia Avenue
+Type: Property
+Value: 2
+Colours: Orange
+Description:
+
+Name: States Avenue
+Type: Property
+Value: 2
+Colours: Orange
+Description:
+
+Name: Short Lane
+Type: Property
+Value: 1
+Colours: Black
+Description:
+
+Name: B & O Railroad
+Type: Property
+Value: 1
+Colours: Black
+Description:
+
+Name: Reading Railroad
+Type: Property
+Value: 1
+Colours: Black
+Description:
+
+Name: Pennsylvania Railroad
+Type: Property
+Value: 1
+Colours: Black
+Description:
+
+Name: Kentucky Avenue
+Type: Property
+Value: 3
+Colours: Red
+Description:
+
+Name: Indiana Avenue
+Type: Property
+Value: 3
+Colours: Red
+Description:
+
+Name: Illinois Avenue
+Type: Property
+Value: 3
+Colours: Red
+Description:
+
+Name: Water Works
+Type: Property
+Value: 2
+Colours: Light Green
+Description:
+
+Name: Electric Company
+Type: Property
+Value: 2
+Colours: Light Green
+Description:
+
+Name: Ventnor Avenue
+Type: Property
+Value: 3
+Colours: Yellow
+Description:
+
+Name: Marvin Gardens
+Type: Property
+Value: 3
+Colours: Yellow
+Description:
+
+Name: Atlantic Avenue
+Type: Property
+Value: 3
+Colours: Yellow
+Description:
+
+Name: Wild Card A
+Type: Property
+Value: 4
+Colours: Blue, Green
+Description:
+
+Name: Wild Card B
+Type: Property
+Value: 1
+Colours: Light Blue, Brown
+Description:
+
+Name: Wild Card C
+Type: Property
+Value: 0
+Colours: Brown, Light Blue, Purple, Orange, Red, Yellow, Green, Blue, Black, Light Green
+Description:
+
+Name: Wild Card D
+Type: Property
+Value: 0
+Colours: Brown, Light Blue, Purple, Orange, Red, Yellow, Green, Blue, Black, Light Green
+Description:
+
+Name: Wild Card E
+Type: Property
+Value: 2
+Colours: Orange, Purple
+Description:
+
+Name: Wild Card F
+Type: Property
+Value: 2
+Colours: Orange, Purple
+Description:
+
+Name: Wild Card G
+Type: Property
+Value: 4
+Colours: Green, Black
+Description:
+
+Name: Wild Card H
+Type: Property
+Value: 4
+Colours: Light Blue, Black
+Description:
+
+Name: Wild Card I
+Type: Property
+Value: 2
+Colours: Light Green, Black
+Description:
+
+Name: Wild Card J
+Type: Property
+Value: 3
+Colours: Yellow, Red
+Description:
+
+Name: Rent A
+Type: Action
+Value: 3
+Colours: Brown, Light Blue, Purple, Orange, Red, Yellow, Green, Blue, Black, Light Green
+Description: Force one player to pay you rent for properties you own in one of these colors.
+
+Name: Rent B
+Type: Action
+Value: 3
+Colours: Brown, Light Blue, Purple, Orange, Red, Yellow, Green, Blue, Black, Light Green
+Description: Force one player to pay you rent for properties you own in one of these colors.
+
+Name: Rent C
+Type: Action
+Value: 3
+Colours: Brown, Light Blue, Purple, Orange, Red, Yellow, Green, Blue, Black, Light Green
+Description: Force one player to pay you rent for properties you own in one of these colors.
+
+Name: Rent D
+Type: Action
+Value: 1
+Colours: Green, Blue
+Description: All players pay you rent for properties you own in one of these colors.
+
+Name: Rent E
+Type: Action
+Value: 1
+Colours: Green, Blue
+Description: All players pay you rent for properties you own in one of these colors.
+
+Name: Rent F
+Type: Action
+Value: 1
+Colours: Brown, Light Blue
+Description: All players pay you rent for properties you own in one of these colors.
+
+Name: Rent G
+Type: Action
+Value: 1
+Colours: Brown, Light Blue
+Description: All players pay you rent for properties you own in one of these colors.
+
+Name: Rent H
+Type: Action
+Value: 1
+Colours: Purple, Orange
+Description: All players pay you rent for properties you own in one of these colors.
+
+Name: Rent I
+Type: Action
+Value: 1
+Colours: Purple, Orange
+Description: All players pay you rent for properties you own in one of these colors.
+
+Name: Rent J
+Type: Action
+Value: 1
+Colours: Black, Light Green
+Description: All players pay you rent for properties you own in one of these colors.
+
+Name: Rent K
+Type: Action
+Value: 1
+Colours: Black, Light Green
+Description: All players pay you rent for properties you own in one of these colors.
+
+Name: Rent L
+Type: Action
+Value: 1
+Colours: Red, Yellow
+Description: All players pay you rent for properties you own in one of these colors.
+
+Name: $10M
+Type: Money
+Value: 10
+Colours: 
+Description:
+
+Name: $1M
+Type: Money
+Value: 1
+Colours: 
+Description:
+
+Name: $1M
+Type: Money
+Value: 1
+Colours: 
+Description:
+
+Name: $1M
+Type: Money
+Value: 1
+Colours: 
+Description:
+
+Name: $1M
+Type: Money
+Value: 1
+Colours: 
+Description:
+
+Name: $1M
+Type: Money
+Value: 1
+Colours: 
+Description:
+
+Name: $1M
+Type: Money
+Value: 1
+Colours: 
+Description:
+
+Name: $1M
+Type: Money
+Value: 1
+Colours: 
+Description:
+
+Name: $1M
+Type: Money
+Value: 1
+Colours: 
+Description:
+
+Name: $1M
+Type: Money
+Value: 1
+Colours: 
+Description:
+
+Name: $1M
+Type: Money
+Value: 1
+Colours: 
+Description:
+
+Name: $2M
+Type: Money
+Value: 2
+Colours: 
+Description:
+
+Name: $2M
+Type: Money
+Value: 2
+Colours: 
+Description:
+
+Name: $2M
+Type: Money
+Value: 2
+Colours: 
+Description:
+
+Name: $2M
+Type: Money
+Value: 2
+Colours: 
+Description:
+
+Name: $2M
+Type: Money
+Value: 2
+Colours: 
+Description:
+
+Name: $3M
+Type: Money
+Value: 3
+Colours: 
+Description:
+
+Name: $3M
+Type: Money
+Value: 3
+Colours: 
+Description:
+
+Name: $3M
+Type: Money
+Value: 3
+Colours: 
+Description:
+
+Name: $4M
+Type: Money
+Value: 4
+Colours: 
+Description:
+
+Name: $4M
+Type: Money
+Value: 4
+Colours: 
+Description:
+
+Name: $4M
+Type: Money
+Value: 4
+Colours: 
+Description:
+
+Name: $5M
+Type: Money
+Value: 5
+Colours: 
+Description:
+
+Name: $5M
+Type: Money
+Value: 5
+Colours: 
+Description:
+
+Name: Deal Breaker
+Type: Action
+Value: 5
+Colours: 
+Description: Steal a complete set of properties from any player (includes any buildings).
+
+Name: Deal Breaker
+Type: Action
+Value: 5
+Colours: 
+Description: Steal a complete set of properties from any player (includes any buildings).
+
+Name: Debt Collector
+Type: Action
+Value: 3
+Colours: 
+Description: Force any player to pay you $5M.
+
+Name: Debt Collector
+Type: Action
+Value: 3
+Colours: 
+Description: Force any player to pay you $5M.
+
+Name: Debt Collector
+Type: Action
+Value: 3
+Colours: 
+Description: Force any player to pay you $5M.
+
+Name: Double The Rent
+Type: Action
+Value: 1
+Colours: 
+Description: Needs to be played with a rent card.
+
+Name: Forced Deal
+Type: Action
+Value: 3
+Colours: 
+Description: Swap any property with another player (cannot be part of a full set).
+
+Name: Forced Deal
+Type: Action
+Value: 3
+Colours: 
+Description: Swap any property with another player (cannot be part of a full set).
+
+Name: Forced Deal
+Type: Action
+Value: 3
+Colours: 
+Description: Swap any property with another player (cannot be part of a full set).
+
+Name: Forced Deal
+Type: Action
+Value: 3
+Colours: 
+Description: Swap any property with another player (cannot be part of a full set).
+
+Name: Hotel
+Type: Action
+Value: 4
+Colours: 
+Description: Add onto any full set that has a house of yours to add $4M to the rent value (Except railroads and utilities)
+
+Name: Hotel
+Type: Action
+Value: 4
+Colours: 
+Description: Add onto any full set that has a house of yours to add $4M to the rent value (Except railroads and utilities)
+
+Name: Hotel
+Type: Action
+Value: 4
+Colours: 
+Description: Add onto any full set that has a house of yours to add $4M to the rent value (Except railroads and utilities)
+
+Name: House
+Type: Action
+Value: 3
+Colours: 
+Description: Add onto any full set you own to add $3M to the rent value (Except railroads and utilities)
+
+Name: House
+Type: Action
+Value: 3
+Colours: 
+Description: Add onto any full set you own to add $3M to the rent value (Except railroads and utilities)
+
+Name: House
+Type: Action
+Value: 3
+Colours: 
+Description: Add onto any full set you own to add $3M to the rent value (Except railroads and utilities)
+
+Name: It's My Birthday
+Type: Action
+Value: 2
+Colours: 
+Description: All players give you $2M as a "gift".
+
+Name: It's My Birthday
+Type: Action
+Value: 2
+Colours: 
+Description: All players give you $2M as a "gift".
+
+Name: It's My Birthday
+Type: Action
+Value: 2
+Colours: 
+Description: All players give you $2M as a "gift".
+
+Name: Just Say No
+Type: Action
+Value: 4
+Colours: 
+Description: Use any time when an action card is played against you.
+
+Name: Just Say No
+Type: Action
+Value: 4
+Colours: 
+Description: Use any time when an action card is played against you.
+
+Name: Just Say No
+Type: Action
+Value: 4
+Colours: 
+Description: Use any time when an action card is played against you.
+
+Name: Pass Go
+Type: Action
+Value: 1
+Colours: 
+Description: Draw 2 extra cards.
+
+Name: Pass Go
+Type: Action
+Value: 1
+Colours: 
+Description: Draw 2 extra cards.
+
+Name: Pass Go
+Type: Action
+Value: 1
+Colours: 
+Description: Draw 2 extra cards.
+
+Name: Pass Go
+Type: Action
+Value: 1
+Colours: 
+Description: Draw 2 extra cards.
+
+Name: Pass Go
+Type: Action
+Value: 1
+Colours: 
+Description: Draw 2 extra cards.
+
+Name: Pass Go
+Type: Action
+Value: 1
+Colours: 
+Description: Draw 2 extra cards.
+
+Name: Pass Go
+Type: Action
+Value: 1
+Colours: 
+Description: Draw 2 extra cards.
+
+Name: Pass Go
+Type: Action
+Value: 1
+Colours: 
+Description: Draw 2 extra cards.
+
+Name: Pass Go
+Type: Action
+Value: 1
+Colours: 
+Description: Draw 2 extra cards.
+
+Name: Pass Go
+Type: Action
+Value: 1
+Colours: 
+Description: Draw 2 extra cards.
+
+Name: Sly Deal
+Type: Action
+Value: 3
+Colours: 
+Description: Steal a property from the player of your choice (Cannot be a part of a full set).
+
+Name: Sly Deal
+Type: Action
+Value: 3
+Colours: 
+Description: Steal a property from the player of your choice (Cannot be a part of a full set).
+
+Name: Sly Deal
+Type: Action
+Value: 3
+Colours: 
+Description: Steal a property from the player of your choice (Cannot be a part of a full set).
